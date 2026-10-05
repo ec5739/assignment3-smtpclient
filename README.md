@@ -1,1 +1,1 @@
-# assignment-smtp
+# assignment3-smtpclient
